@@ -93,3 +93,6 @@ __3. 농촌진흥청 국립농업과학원_농업기상 기본 관측데이터 �
 5. 지역별 농산물 순위
     - 매개변수로 설정한 날짜에, 상단 필터에서 선택한 농산물에 대하여 생산성 지표 기준 지역별 순위 표출
     ![지역별 농산물 순위](https://drive.google.com/uc?id=1MqAvmUk_neetbkWaVfo8Oma1Znu20fqG)
+    
+### Poster 
+![포스터_기상요인과 농산물생산](https://user-images.githubusercontent.com/61418637/144744840-c50e47b2-a4a0-4bdc-91ad-875368c1b9e2.png)
