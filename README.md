@@ -67,6 +67,6 @@ __3. 농촌진흥청 국립농업과학원_농업기상 기본 관측데이터 �
 ***
 ## Dashboard  
 
-![농업기상](https://drive.google.com/uc?id=1wCpowf04WQqn3z9z5smkTawflzORG6mN)  
+![대시보드](https://drive.google.com/uc?id=1wCpowf04WQqn3z9z5smkTawflzORG6mN)  
 - 전처리가 끝난 데이터를 Tableau에 올려 대시보드를 생성한다  
 - 태블로 소스코드에 대한 설명. (민지님께서... 부탁드립니다...)
