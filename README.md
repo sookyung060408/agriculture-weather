@@ -87,7 +87,7 @@ __3. 농촌진흥청 국립농업과학원_농업기상 기본 관측데이터 �
     ![지역 내 농산물 일자별 기상요인 및 생산성 현황](https://drive.google.com/uc?id=1nYclJECadIwJ6-T38LR5dwdGgR5aS1Yy)
 
 4. 지역 내 농산물 계절별 생산성 변동률
-    - 좌측 지도에서 선택한 지역 내에서 생산되는 농산물의 계절별 생산량 비교
+    - 좌측 지도에서 선택한 지역 내에서 생산되는 농산물의 계절별 생산성 비교
     ![지역 내 농산물 계절별 생산성 변동률](https://drive.google.com/uc?id=1nYclJECadIwJ6-T38LR5dwdGgR5aS1Yy)
 
 5. 지역별 농산물 순위
