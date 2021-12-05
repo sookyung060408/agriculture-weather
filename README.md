@@ -67,6 +67,29 @@ __3. 농촌진흥청 국립농업과학원_농업기상 기본 관측데이터 �
 ***
 ## Dashboard  
 
-![대시보드](https://drive.google.com/uc?id=1qnaEwS1VxA1DJWPgvKK4GxWejlApPPDw)  
+![대시보드](https://drive.google.com/uc?id=1aM_v_cQUB-wXqd9cT9HdxTpR-OxZ5t1x)  
 - 전처리가 끝난 데이터를 Tableau에 올려 대시보드를 생성한다  
-- 태블로 소스코드에 대한 설명. (민지님께서... 부탁드립니다..)
+
+#### Sheet
+1. 주요날씨 요인 및 판매량 최상위/하위 농산물
+    - 매개변수로 설정한 날짜의 기온, 습도, 일사량 및 해당 기상요인의 전일 대비 증감량 표현 
+    - 매개변수로 설정한 날짜에 가장 많이/적게 팔린 농산물에 대하여 각각 판매량과 평균 경락단가 표현
+    ![주요날씨 요인 및 판매량 최상위/하위 농산물](https://drive.google.com/file/d/1Kmz8zAw0CPxnWa9SiqEg3CLHAT_75-yY/view?usp=sharing) 
+    
+2. 지역별 농산물 생산 현황
+    - 시도/시군구로 시트를 분리한 후 매개변수로 설정한 날짜의 생산성(거래량 또는 경락가) 값에 따라 지도 위 색상으로 표현(진한 색상일 수록 높은 값을 의미)
+    - '시도' 시트에서 특정 시도를 선택할 시 '시군구' 시트에 필터가 적용되고, 마찬가지로 '시군구' 시트에서 특정 시군구를 선택할 시 우측 시트들에 필터가 적용됨
+    ![지역별 농산물 생산 현황](https://drive.google.com/file/d/1VHtVyJBVvNJc5g4P-tR2fQNcPj56bzhU/view?usp=sharing)
+    
+3. 지역 내 농산물 일자별 기상요인 및 생산성 현황
+    - 좌측 지도에서 선택한 지역, 상단 필터에서 선택한 농산물, 기상요인, 생산성 지표에 따라 그래프 변동됨
+    - 매개변수로 설정한 날짜까지의 기상요인 값을 회색으로, 생산성지표 값을 초록색으로 두껍게 표현함
+    ![지역 내 농산물 일자별 기상요인 및 생산성 현황](https://drive.google.com/file/d/1nYclJECadIwJ6-T38LR5dwdGgR5aS1Yy/view?usp=sharing)
+
+4. 지역 내 농산물 계절별 생산성 변동률
+    - 좌측 지도에서 선택한 지역 내에서 생산되는 농산물의 계절별 생산량 비교
+    ![지역 내 농산물 계절별 생산성 변동률](https://drive.google.com/file/d/1nYclJECadIwJ6-T38LR5dwdGgR5aS1Yy/view?usp=sharing)
+
+5. 지역별 농산물 순위
+    - 매개변수로 설정한 날짜에, 상단 필터에서 선택한 농산물에 대하여 생산성 지표 기준 지역별 순위 표출
+    ![지역별 농산물 순위](https://drive.google.com/file/d/1MqAvmUk_neetbkWaVfo8Oma1Znu20fqG/view?usp=sharing)
